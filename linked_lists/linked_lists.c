@@ -1,3 +1,5 @@
+//Столяров, стр. 144 pdf
+
 # include <stdio.h>
 # include <string.h>
 # include <stdlib.h>
