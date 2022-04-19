@@ -1,3 +1,4 @@
+## Столяров, стр. 144 pdf
 class Node:
     def __init__(self, data):
         self.data = data
