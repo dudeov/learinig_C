@@ -1,1 +1,1 @@
-# learinig_C
+# Learinig C langage
